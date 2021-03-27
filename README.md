@@ -1,6 +1,6 @@
 # Chatbot-Smart-Assistant-Android
 
-<img src="https://user-images.githubusercontent.com/23194718/111886651-709dc700-89e0-11eb-8118-7251cc0e468b.gif" width="500" height="938"/>
+<img src="https://user-images.githubusercontent.com/23194718/111886651-709dc700-89e0-11eb-8118-7251cc0e468b.gif" width="333" height="625"/>
 
 
 An Android application where people who speak different languages can easily
